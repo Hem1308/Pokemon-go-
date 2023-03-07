@@ -1,0 +1,40 @@
+html,body{
+    height: 100%;
+    width: 60%;
+    margin-left: 20%;
+     background-color: bisque;
+}
+
+#container {
+    margin: auto;
+
+}
+
+#poke-container {
+    margin: auto;
+    width: 90%;
+    padding: 10px;
+
+}
+
+#header-container {
+    border-radius: 40px 0 40px 0 !important;
+     background-color: cornflowerblue;
+}
+
+#header-text{
+    margin: 0 auto;
+
+}
+
+#generate-pokemon {
+    margin: 0 auto;
+    background-color:lavender;
+}
+
+#delete-btn {
+    position: absolute;
+    left: 85%;
+    display: none;
+    margin-bottom: 5%;
+}
